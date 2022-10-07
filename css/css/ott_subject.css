@@ -44,7 +44,7 @@ a{
 * 菜单栏
 */
 .ott-indexMenuContainer{
-    width:6.75rem;
+    width: 5.75rem;
     height:16.625rem; 
     position: relative;
 }
@@ -112,7 +112,7 @@ a{
 }
 .ott-push li{
     width: 5.75rem;
-    height:5.75rem;
+    height: 5.75rem;
 }
 .ott-extendingUl li .ott-extendingListA{
     position: relative;
@@ -176,8 +176,8 @@ a{
 }
 .ott-push li.ott-extendingLi-7,
 .ott-push li.ott-extendingLi-8{
-    width:5.75rem;
-    height:5.75rem;
+    width: 5.75rem;
+    height: 5.75rem;
     padding:.22rem;
 }
 
@@ -210,8 +210,8 @@ a{
 }
 
 .ott-album li{
-    height:5.75rem;
-    width:5.75rem;
+    height: 5.75rem;
+    width: 5.75rem;
     padding:.15rem;
 }
 
