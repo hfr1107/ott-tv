@@ -210,15 +210,14 @@ a{
 }
 
 .ott-album li{
-    height: 9rem;
-    width: 9rem;
+    height:5.75rem;
+    width:5.75rem;
     padding:.15rem;
 }
 
 .ott-cats li{
-    width: 9.35rem;
-    height: 9.35rem;
-}
+    width: 6rem;
+    height: 6rem;
 
 .book-icon{
     background: url('http://www.miguxue.com/p/content/repository/ues/image/s140/20170505183302244.png') no-repeat;
